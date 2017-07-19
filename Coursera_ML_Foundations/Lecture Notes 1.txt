@@ -1,0 +1,16 @@
+case 1: House Price Prediction
+Regression
+
+case 2:Sentiment Analysis
+Classification
+
+
+Case 2: Doc retrieval
+clustering
+
+Case 4: Product Recommendation
+Matrix Factorixation
+
+Case 5: Visual product recommender
+Deep Learnig(Neural Network)
+
